@@ -14,6 +14,4 @@ def changeColor(red, green, blue):
 red, green, blue = generateRGB()
 color = changeColor(red, green,blue)
 
-
-
 print(color, "COLOR CHANGED!!!")
